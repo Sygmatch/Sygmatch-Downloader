@@ -1,21 +1,24 @@
-MIT License
+Copyright (c) 2026 Sygmatch. Todos los derechos reservados.
 
-Copyright (c) 2026 Sygmatch
+El presente software (Sygmatch Downloader y su automatización asociada) es 
+propiedad exclusiva de su autor. Queda estrictamente prohibida la copia, 
+modificación, distribución, sublicencia, comercialización o reventa de este 
+ejecutable o de su código fuente sin la autorización previa y por escrito del autor.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following conditions:
+El uso de este ejecutable requiere de un código de activación válido emitido 
+directamente por el autor. El cobro asociado a dicho código de activación aplica 
+únicamente por el desarrollo, diseño, soporte y empaquetado de esta herramienta 
+propietaria de automatización.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Este software hace uso opcional de utilidades externas de código abierto 
+(tales como "yt-dlp" y "ffmpeg") únicamente mediante llamadas de línea de 
+comandos como motores auxiliares. Dichas herramientas pertenecen a sus 
+respectivos creadores y se rigen bajo sus propias licencias libres y gratuitas, 
+por lo que no forman parte de este acuerdo comercial ni de ningún cobro.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, 
+EXPRESA O IMPLÍCITA. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT 
+SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, 
+YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, 
+QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS 
+EN EL SOFTWARE.
